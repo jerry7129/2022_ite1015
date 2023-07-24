@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kim/2022_ite1015_2022083409/11-2/11-2-2/build/main.cpp
+my_vector2.h
+/home/kim/2022_ite1015_2022083409/11-2/11-2-2/build/my_vector2.h
+iostream
+-
+string
+-
+
+/home/kim/2022_ite1015_2022083409/11-2/11-2-2/build/my_vector2.h
+iostream
+-
+

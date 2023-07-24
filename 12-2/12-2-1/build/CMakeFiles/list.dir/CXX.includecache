@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kim/2022_ite1015_2022083409/12-2/12-2-1/build/list.h
+iostream
+-
+
+/home/kim/2022_ite1015_2022083409/12-2/12-2-1/build/main.cpp
+iostream
+-
+list.h
+/home/kim/2022_ite1015_2022083409/12-2/12-2-1/build/list.h
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kim/2022_ite1015_2022083409/7-1/7-1-1/build/main.cpp
+iostream
+-
+string
+-
+vector
+-
+sorted.h
+/home/kim/2022_ite1015_2022083409/7-1/7-1-1/build/sorted.h
+
+/home/kim/2022_ite1015_2022083409/7-1/7-1-1/build/sorted.cpp
+vector
+-
+algorithm
+-
+sorted.h
+/home/kim/2022_ite1015_2022083409/7-1/7-1-1/build/sorted.h
+
+/home/kim/2022_ite1015_2022083409/7-1/7-1-1/build/sorted.h
+

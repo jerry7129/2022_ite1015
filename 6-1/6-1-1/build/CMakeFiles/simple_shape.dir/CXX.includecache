@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kim/2022_ite1015_2022083409/6-1/6-1-1/build/shapes.cpp
+shapes.h
+/home/kim/2022_ite1015_2022083409/6-1/6-1-1/build/shapes.h
+iostream
+-
+
+/home/kim/2022_ite1015_2022083409/6-1/6-1-1/build/shapes.h
+

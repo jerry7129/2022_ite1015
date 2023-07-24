@@ -1,0 +1,3 @@
+/home/kim/2022_ite1015_2022083409/6-1/6-1-3/build/CMakeFiles/rebuild_cache.dir
+/home/kim/2022_ite1015_2022083409/6-1/6-1-3/build/CMakeFiles/edit_cache.dir
+/home/kim/2022_ite1015_2022083409/6-1/6-1-3/build/CMakeFiles/simple_account.dir

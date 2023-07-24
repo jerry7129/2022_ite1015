@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/assert.dir/fred.c.o CMakeFiles/assert.dir/bill.c.o CMakeFiles/assert.dir/main.c.o  -o assert 

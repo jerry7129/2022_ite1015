@@ -1,0 +1,3 @@
+/home/kim/2022_ite1015_2022083409/10-2/10-2-1/build/CMakeFiles/rebuild_cache.dir
+/home/kim/2022_ite1015_2022083409/10-2/10-2-1/build/CMakeFiles/edit_cache.dir
+/home/kim/2022_ite1015_2022083409/10-2/10-2-1/build/CMakeFiles/clock_time.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kim/2022_ite1015_2022083409/11-1/11-1-2/build/my_string2.cpp
+my_string2.h
+/home/kim/2022_ite1015_2022083409/11-1/11-1-2/build/my_string2.h
+string
+-
+iostream
+-
+
+/home/kim/2022_ite1015_2022083409/11-1/11-1-2/build/my_string2.h
+iostream
+-
+string
+-
+

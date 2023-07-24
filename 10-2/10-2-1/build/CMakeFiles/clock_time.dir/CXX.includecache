@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kim/2022_ite1015_2022083409/10-2/10-2-1/build/clock_time.h
+
+/home/kim/2022_ite1015_2022083409/10-2/10-2-1/build/clocks.h
+clock_time.h
+/home/kim/2022_ite1015_2022083409/10-2/10-2-1/build/clock_time.h
+
+/home/kim/2022_ite1015_2022083409/10-2/10-2-1/build/main.cpp
+iostream
+-
+vector
+-
+clocks.h
+/home/kim/2022_ite1015_2022083409/10-2/10-2-1/build/clocks.h
+
